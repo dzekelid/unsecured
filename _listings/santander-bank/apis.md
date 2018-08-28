@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-
 x-kinRank: "8"
 x-alexaRank: "11016"
 tags: Unsecured
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/unsecured/master/_listings/santander-bank/apis.md
 specificationVersion: "0.14"
 apis:
